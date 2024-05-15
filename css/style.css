@@ -800,7 +800,7 @@ button {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #f4ed9a;
+    background-color: orange;
     height: auto;
     background-size: 100%;
     padding-bottom: 30px;
@@ -896,12 +896,12 @@ button {
 .social_icon li {
     float: left;
     font-size: 26px;
-    color: #f5ddb6;
+    color: black;
     padding: 10px;
 }
 
 .social_icon li a {
-    color: #f5ddb6;
+    color: black;
 }
 
 .social_icon li a:hover {
