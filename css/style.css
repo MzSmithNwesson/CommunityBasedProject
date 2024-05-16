@@ -431,6 +431,11 @@ height: 500px;
     margin-top: 30px;
 }
 
+.span-products {
+    font-size: 40px;
+    color: red;
+}
+
 .bursh_text {
     width: 100%;
     font-size: 20px;
