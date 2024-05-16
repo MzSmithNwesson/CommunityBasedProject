@@ -381,7 +381,10 @@ button {
     color: #ffffff;
     background-color: #f5ddb6;
 }
-
+.banner-img {
+width: 500px;
+height: 500px;
+}
 
 /* banner section end */
 
