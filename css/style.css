@@ -11,6 +11,8 @@
     src: url("../fonts/BalooChettan-Regular.ttf");
 }
 
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Danfo&display=swap'); */
+
 
 /*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
  2) font-family: 'Poppins', sans-serif;
@@ -434,6 +436,11 @@ height: 500px;
 .span-products {
     font-size: 40px;
     color: red;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
 }
 
 .bursh_text {
